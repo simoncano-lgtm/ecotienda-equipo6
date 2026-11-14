@@ -1,0 +1,12 @@
+{
+  "name": "ecotienda-equipo3",
+  "version": "1.0.0",
+  "description": "Tienda en línea de equipos eficientes frente al alza de energía de El Niño 2026",
+  "scripts": {
+    "sass": "sass scss/estilos.scss css/estilos.css --no-source-map"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
+
